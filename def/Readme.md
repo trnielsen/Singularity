@@ -19,3 +19,7 @@
 ## shell 
 
 * singularity shell /home/user_name/mcstas_trn.sif
+
+# Documentation
+* https://docs.sylabs.io/guides/3.5/user-guide/build_a_container.html
+
